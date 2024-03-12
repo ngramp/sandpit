@@ -4,3 +4,6 @@
 [submodule "elixir-hello"]
 	path = elixir-hello
 	url = git@github.com:ngramp/elixir-hello.git
+[submodule "py-torch-hf"]
+	path = py-torch-hf
+	url = git@github.com:ngramp/py-torch-hf.git
