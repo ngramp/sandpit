@@ -16,3 +16,6 @@
 [submodule "next-gl"]
 	path = next-gl
 	url = git@github.com:ngramp/next-gl.git
+[submodule "reacttest"]
+	path = reacttest
+	url = git@github.com:ngramp/reacttest.git
