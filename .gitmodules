@@ -10,3 +10,6 @@
 [submodule "stale-spiral"]
 	path = stale-spiral
 	url = git@github.com:ngramp/stale-spiral.git
+[submodule "react-globolist"]
+	path = react-globolist
+	url = git@github.com:ngramp/react-globolist.git
