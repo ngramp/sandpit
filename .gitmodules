@@ -13,3 +13,6 @@
 [submodule "react-globolist"]
 	path = react-globolist
 	url = git@github.com:ngramp/react-globolist.git
+[submodule "next-gl"]
+	path = next-gl
+	url = git@github.com:ngramp/next-gl.git
