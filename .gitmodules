@@ -7,3 +7,6 @@
 [submodule "py-torch-hf"]
 	path = py-torch-hf
 	url = git@github.com:ngramp/py-torch-hf.git
+[submodule "stale-spiral"]
+	path = stale-spiral
+	url = git@github.com:ngramp/stale-spiral.git
