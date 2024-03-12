@@ -1,0 +1,6 @@
+[submodule "fizzbuzz-rust"]
+	path = fizzbuzz-rust
+	url = git@github.com:ngramp/fizzbuzz-rust.git
+[submodule "elixir-hello"]
+	path = elixir-hello
+	url = git@github.com:ngramp/elixir-hello.git
